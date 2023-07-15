@@ -2,6 +2,8 @@
 
 This repository contains configuration for a custom shell environment setup, specifically, `.pk10.zsh` file, which enhances your shell environment by leveraging the [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh) framework and [Powerlevel10k](https://github.com/romkatv/powerlevel10k) theme. This custom shell setup provides a more interactive and visually appealing terminal experience.
 
+You can run the wizard on your own using p10k configure or you can just use my file
+
 ## Prerequisites
 
 1. [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
